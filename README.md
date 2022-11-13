@@ -1,4 +1,4 @@
-# My-Old-Website
+# My Old Website
 
 My old website that I made 3 years ago. Just beware that it's terrible and the allignment is the worst :((
 
